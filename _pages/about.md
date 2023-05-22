@@ -18,7 +18,7 @@ I completed my MSc in Information and Communication Engineering from IOE, Pulchw
 
 ## Interests
 
-I am interested in the fascinating realms of AI/ML and image processing, particularly in their implications for safety, security, and ethical considerations. I am  also keen to explore the field of explainable AI, striving to understand the inner workings of AI models, making them more transparent and interpretable. I thik it has been very necessary about promoting responsible and trustworthy AI practices, ensuring that ethical principles guide the development and deployment of AI systems. Diving into the challenges of AI safety and security is another area I am eager to explore, working towards building robust and resilient AI systems in different domains such as computer vision, networking, or cybersecurity and addressing AI misuse and misinformation.
+I am interested in the fascinating realms of AI/ML and image processing, particularly in their implications for safety, security, and ethical considerations. I am  also keen to explore the field of explainable AI, striving to understand the inner workings of AI models, making them more transparent and interpretable. I thik it has been very necessary about promoting responsible and trustworthy AI practices, ensuring that ethical principles guide the development and deployment of AI systems. Challenges in AI safety and security is another area I am eager to explore, working towards building robust and resilient AI systems in different domains such as computer vision, networking, or cybersecurity and addressing AI misuse and misinformation.
 
 
 ## Current Profession
